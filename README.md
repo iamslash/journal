@@ -1,2 +1,1 @@
-# journal
-david's journal
+David's Journal source 
