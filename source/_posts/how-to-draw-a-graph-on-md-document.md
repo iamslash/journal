@@ -4,7 +4,6 @@ date: 2018-01-04 21:06:47
 tags:
 ---
 
-
 [gravizo](http://www.gravizo.com/) is the best solution to draw a
 graph on markdown documents. You sould check [this](https://github.com/TLmaK0/gravizo/blob/master/README.md)
 
@@ -26,7 +25,7 @@ graph on markdown documents. You sould check [this](https://github.com/TLmaK0/gr
   }
 )
 
-```html
+```
 ![Alt text](http://g.gravizo.com/g?
   digraph G {
     aize ="4,4";
