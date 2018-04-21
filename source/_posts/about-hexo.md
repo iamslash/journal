@@ -23,7 +23,8 @@ hexo g -w
 # 글을 작성 하는 방법
 
 ```
-hexo new "aaa"
+hexo new draft "aaa"
+hexo publish "aaa"
 hexo g
 hexo serve -o
 hexo d
